@@ -34,6 +34,8 @@ a{
 	text-transform:capitalize;
 	margin-bottom:10px;
 	display:block;
+	text-decoration-line: none;
+	color:black;
 }
 
 h2{
@@ -43,7 +45,7 @@ h2{
 li{
 	list-style-type:none;
 }
-.video{
+.player_one{
 	text-align:center;
 	background-color: rgb(255, 255, 255);
 	border:solid 1px;
@@ -52,4 +54,15 @@ li{
   margin-bottom: 100px;
   margin-right: 100px;
   margin-left: 100px;
+	padding-top:10px
+}
+.player_two{
+	width:100%;
+}
+h5{
+	text-align:left;
+	margin-left:10px;
+}
+.video{
+    width: 97%;
 }

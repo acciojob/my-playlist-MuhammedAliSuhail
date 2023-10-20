@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+
+*{
+	font-family: Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px
+}
+body{
+	background-color: rgb(204, 204, 204)
+}
+h1{
+	text-align:center;
+}
+.box{
+	background-color:white;
+	border:solid 1px;
+	border-radius:5px;
+	padding:25px;
+	text-align: justify;
+    margin-top: 50px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+	
+}
+
+
+
+.inner_box{
+    position:relative;
+	margin-left:0px;
+}
+a{
+	text-transform:capitalize;
+	margin-bottom:10px;
+	display:block;
+}
+
+h2{
+	text-align:center;
+	margin-top:0px;
+}
+li{
+	list-style-type:none;
+}
+.video{
+	text-align:center;
+	background-color: rgb(255, 255, 255);
+	border:solid 1px;
+	border-radius:5px;
+	   margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
